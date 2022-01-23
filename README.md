@@ -1,90 +1,76 @@
-# Personal User Manual Template
+# Tara Glover - Senior Web Project Manager
+<summary>
+    Hi! This page is intended to help you understand what it might be like to work with me.<br><br>
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
+It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of anyoone on my team.
 
-### Serving Your Personal User Manual as a Website
+</summary>
 
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
+## Not Found On My Resume
 
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
-
-## About Me
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
-</details>
-
-## How to Contact Me
+<summary>
+    I'm a mom of 5, and while that doesn't DEFINE me, parenting certainly takes a great deal of my time and mental energy. It also ensures I am learning something new every day and is a constant reminder to honor growth in whatever form it may take.  I am 'stepmom' to 2 of my kids and have been for 12 years.  Unfortunately/fortunately, I am somewhat of an expert on all things divorce, coparenting, and family-court-system related.
+    <br><br>
+    I have lived in Maryland my whole life, but my calling is a remote fishing village in the DR or some place like it.  
+    <br><br>
+    I bake my own bread, compost, and raise chickens and ducks (as pets and egg providers).  So far every animal born on our little homestead has been a boy so things get a little angsty each Spring.
+</summary>
 
 
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
+## Communication
 
-## Preferred Working Style
+<summary>
+    
+    **Response time**: I will always do my best to provide immediate responses to emails or Slack messages, even if only to acknowledge that the message had been received. Please don't ever hesitate to reach out for a coffee chat, brainstorming session, or anything else with me via Zoom!
 
+    **Asynchronous communication**: I have a strong preference for asynchronous communication and will default to it when possible. WHile I recognize the importance of a well-defined meeting, I know that quality work comes from people working concurrently on projects and products at the times that work best for them. 
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
-</details>
+    **Synchronous communication**: While I tend to default to async communication as a starting point, I also recognize the importance of synchronous communication in terms of building rapport, trust, and quickly delivering shared context to a group. 
 
-## What Motivates Me
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
-
-## What Demotivates Me
+     **My Availability**: You may find me around at 'odd' times, mainly due the nature of managing 3 kids at home in 3 different schools.  So while I might need to run to a midday doctor appointment or take some time to prep dinner, I will often catch up on things after the dishes are put away and everyones teeth are brushed.
+    
+   
+</summary>
 
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
+## Favorites
 
-## My Values (and what I value in others)
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
-</details>
-
-## My Blind Spots
+<summary>
+    <ul>
+        <li>**Books**: Catch-22, 100 Years of Solitude, The Godfather, East of Eden, Fall On Your Knees</li>
+        <li>**Movies**: Shawhshank Redemption, Lost in Translation, Hard Candy</li>
+        <li>**Recent-ish TV**: Shitts Creek, The Wire, Master Of None, What We Do In The Shadows, The Mandolorian</li>
+        <li>**Food**: All the bread, dark chocolate, aloo gobi masala</li>
+        <li>**Bands**: Beastie Boys, Tribe Called Quest, Rage Against The Machine; Caveat:  I prefer my live music classical/opera</li>
+        <li>**Comedy**: Ali Wong, Sara Silverman, Bowen Yang</li>
+    </ul>
+</summary>
 
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
+## My Values
 
-## My Pet Peeves
+ <summary>
+    I am incredibly passionate about diversity of all kinds, identity, accessibility and belonging. I value honesty, direct communication and authenticity.
+</summary>
+
+## Working with Me
+
+ <summary>
+    My goal is to clear obstacles, set context, and build process. In general: to make your (work) life easier, clearer and less stressful. It cannot be overstated how much I value your knowledge and expertise and my desire to learn things from you.  
+    <br><br>
+    What's going on in your life doesn't stop just because you're at work. Please don't feel you can't talk about something because it's 'not work related'.
+</summary>
+
+## Actual Factuals
+
+<summary>
+    <ul>
+        <li>I fell down an abandoned well as a child.</li>
+        <li>I was a vegetarian for 10 years and am still a huge animal rights advocate</li>
+        <li>I have not yet been able to kick the habit of putting 2 spaces after a period.  I'm working on it. Really.</li>
+    </ul>
+</summary>
 
 
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
-</details>
-
-## Other
 
 
-<details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
-
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
