@@ -56,7 +56,9 @@ What's going on in your life doesn't stop just because you're at work. Please do
 ## Actual Factuals
 
 - I fell down an abandoned well as a child.
-- I was a vegetarian for 10 years and am still a huge animal rights advocate
+- I was a vegetarian for 10 years and am still a huge animal rights advocate.
+- I'm published in The North American Journal oof Psychology and the Journal of Developmental Psychobiology.
+- None of my grandparents made it past the 6th grade.  I was the first in my family to attend college.
 - I have not yet been able to kick the habit of putting 2 spaces after a period.  I'm working on it. Really.
 
 
