@@ -11,9 +11,14 @@ I'm a mom of 5, and while that doesn't DEFINE me, parenting certainly takes a gr
 
 I have lived in Maryland my whole life, but my calling is a remote fishing village in the DR or some place like it.  
 
-I bake my own bread, compost, and raise chickens and ducks (as pets and egg providers).  So far every animal born on our little homestead has been a boy so things get a little angsty each Spring.
+I bake my own bread, compost, and raise chickens and ducks (as pets and egg providers).  So far every animal born on our little homestead has been a boy so things get a little angsty each Spring. Check out our 
+[@blendedshire](https://www.instagram.com/blendedshire/)
+or 
+[@unoTheSaint](https://www.instagram.com/unothesaint/)
+Instagrams for all sorts of animal pics!
 
 
+![2 cats snuggling!](/assets/cats.jpeg)
 
 ## Communication
 
@@ -43,7 +48,7 @@ I am incredibly passionate about diversity of all kinds, identity, accessibility
 
 ## Working with Me
 
-My goal is to clear obstacles, set context, and build process. In general: to make your (work) life easier, clearer and less stressful. It cannot be overstated how much I value your knowledge and expertise and my desire to learn things from you.  
+My goal is to clear obstacles, organize all the things, and build and streamline process. In general: to make your (work) life easier, clearer and less stressful. It cannot be overstated how much I value your knowledge and expertise and my desire to learn things from you.  
 
 What's going on in your life doesn't stop just because you're at work. Please don't feel you can't talk about something because it's 'not work related'.
 
