@@ -10,11 +10,11 @@ I'm a mom of 5, and while that doesn't DEFINE me, parenting certainly informs my
 
 I have lived in Maryland my whole life, but my calling is a remote fishing village in the Dominican Republic or some place like it.  
 
-I bake my own bread, compost, and raise chickens and ducks (as pets and egg providers).  So far every animal born on our little homestead has been a boy so things get a little angsty each Spring. Check out our 
+I bake my own bread, compost, and raise chickens and ducks (as pets and egg providers).  So far every animal born on our little homestead has been a boy so things get a little angsty each Spring. Check out my 
 [@blendedshire](https://www.instagram.com/blendedshire/)
 or 
 [@unoTheSaint](https://www.instagram.com/unothesaint/)
-Instagrams for all sorts of animal pics!
+Instagram for all sorts of animal pics!
 
 
 ![2 cats snuggling!](/assets/cats.jpeg)
@@ -27,15 +27,15 @@ Instagrams for all sorts of animal pics!
 
 **Synchronous communication**: While I tend to default to async communication as a starting point, I also recognize the importance of synchronous communication in terms of building rapport, trust, and quickly delivering shared context to a group. 
 
-**My Availability**: You may find me around at 'odd' times, mainly due the nature of managing 3 kids at home in 3 different schools.  So while I might need to run to a midday doctor appointment or take some time to prep dinner, I will often catch up on things after the dishes are put away and everyones teeth are brushed.
+**My Availability**: You may find me around at 'odd' times, mainly due the nature of managing 3 kids at home in 3 different schools.  So while I might need to run to a midday doctor appointment or take some time to prep dinner, I will often catch up on things after the dishes are put away and everyone's teeth are brushed.
     
 ## Favorites
 
 - **Books**: Catch-22, 100 Years of Solitude, The Godfather, East of Eden, Hail Mary
-- **Movies**: Shawhshank Redemption, Lost in Translation, Hard Candy
-- **Recent-ish TV**: Shitts Creek, The Wire, Master Of None, What We Do In The Shadows, Star Trek TNG
+- **Movies**: Shawhshank Redemption, Lost in Translation, Jaws, Hard Candy
+- **TV**: Shitts Creek, The Wire, Master Of None, What We Do In The Shadows, Star Trek TNG
 - **Food**: All the bread, dark chocolate, aloo gobi masala
-- **Bands**: Beastie Boys, Tribe Called Quest, Rage Against The Machine, Frank Turner; Caveat:  I prefer my live music classical/opera
+- **Music**: Beastie Boys, Tribe Called Quest, Rage Against The Machine, Frank Turner; Caveat:  I prefer my live music classical/opera
 - **Comedy**: Ali Wong, Sara Silverman, Bowen Yang, Patton Oswald
 - **Cars**: RX7 (5th Gen), thats it - I long for high speed rail
 
@@ -56,7 +56,7 @@ What's going on in your life doesn't stop just because you're at work. Please do
 
 - I fell down an abandoned well as a child.
 - I was a vegetarian for 10 years and am still a huge animal rights advocate.
-- I'm published in The North American Journal oof Psychology and the Journal of Developmental Psychobiology.
+- I'm published in The North American Journal of Psychology and the Journal of Developmental Psychobiology.
 - None of my grandparents made it past the 4th grade.  I was the first in my family to attend college.
 - I have not yet been able to kick the habit of putting 2 spaces after a period.  I'm working on it. Really.
 
