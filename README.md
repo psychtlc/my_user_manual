@@ -2,7 +2,7 @@
 
 Hi! This page is intended to help you understand what it might be like to work with me.
 
-It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of anyoone on my team.
+It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of anyone on my team.
 
 ## Not Found On My Resume
 
