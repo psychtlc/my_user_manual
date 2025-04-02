@@ -1,4 +1,4 @@
-# Tara Glover - Senior Project Lead
+# Tara Glover - Senior Project Management & Product Development Leader
 
 Hi! This page is intended to help you understand what it might be like to work with me.
 
@@ -14,7 +14,7 @@ I bake my own bread, compost, and raise chickens and ducks (as pets and egg prov
 [@blendedshire](https://www.instagram.com/blendedshire/)
 or 
 [@unoTheSaint](https://www.instagram.com/unothesaint/)
-Instagram for all sorts of animal pics!
+Instagram for our menagerie of furry family and foster animals!
 
 
 ![2 cats snuggling!](/assets/cats.jpeg)
@@ -26,14 +26,12 @@ Instagram for all sorts of animal pics!
 **Asynchronous communication**: I have a strong preference for asynchronous communication and will default to it when possible. While I recognize the importance of a well-defined meeting, I know that quality work comes from people working concurrently on projects and products at the times that work best for them. 
 
 **Synchronous communication**: While I tend to default to async communication as a starting point, I also recognize the importance of synchronous communication in terms of building rapport, trust, and quickly delivering shared context to a group. 
-
-**My Availability**: You may find me around at 'odd' times, mainly due the nature of managing 3 kids at home in 3 different schools.  So while I might need to run to a midday doctor appointment or take some time to prep dinner, I will often catch up on things after the dishes are put away and everyone's teeth are brushed.
     
 ## Favorites
 
 - **Books**: Catch-22, 100 Years of Solitude, The Godfather, East of Eden, Hail Mary
 - **Movies**: Shawhshank Redemption, Lost in Translation, Jaws, Hard Candy
-- **TV**: Shitts Creek, The Wire, Master Of None, What We Do In The Shadows, Star Trek TNG
+- **TV**: Shitts Creek, The Wire, What We Do In The Shadows, Star Trek TNG
 - **Food**: All the bread, dark chocolate, aloo gobi masala
 - **Music**: Beastie Boys, Tribe Called Quest, Rage Against The Machine, Frank Turner; Caveat:  I prefer my live music classical/opera
 - **Comedy**: Ali Wong, Sara Silverman, Bowen Yang, Patton Oswald
